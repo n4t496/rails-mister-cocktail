@@ -9,3 +9,26 @@
 .alert-warning {
   background: $red;
 }
+
+.card {
+  background-size: cover;
+  height: 300px;
+  width: 300px;
+  padding: 10px;
+  text-align: center;
+  vertical-align: middle;
+  font-size: 10px;
+  font-color: white;
+   display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.card-description {
+  h2 {
+    text-align: center;
+    vertical-align: middle;
+
+  }
+}
+
