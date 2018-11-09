@@ -11,6 +11,6 @@ import 'bootstrap';
 console.log('Hello World from Webpacker')
 
 import 'bootstrap';
-import improveDropdown from '../components/select';
+// import improveDropdown from '../components/select';
 
-improveDropdown();
+// improveDropdown();
